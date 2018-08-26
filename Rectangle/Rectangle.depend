@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1535310490 source:c:\users\deizi\documents\github\pds2\rectangle\rectangle.cpp
+	<iostream>
+
+1535311045 source:c:\users\deizi\documents\github\pds2\rectangle\main.cpp
+	<iostream>
+	"rectangle.h"
+
+1535310454 c:\users\deizi\documents\github\pds2\rectangle\rectangle.h
+
